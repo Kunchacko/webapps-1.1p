@@ -1,0 +1,67 @@
+/* styles.css */
+
+body {
+    background-color: lightgray;
+    font-family: verdana;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+}
+
+h3 {
+    color: purple;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    font-size: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table, th, td {
+    border: 2px solid blue;
+}
+
+th {
+    font-weight: bold;
+    color: green;
+}
+
+caption {
+    color: aquamarine;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input[type="text"], input[type="submit"] {
+    margin-bottom: 10px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
